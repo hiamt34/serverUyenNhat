@@ -1,0 +1,9 @@
+*.env
+logs/*
+/node_modules/
+/public/
+/media/
+/build/
+src/views
+.babelrc
+package-lock.json
